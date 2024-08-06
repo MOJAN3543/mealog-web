@@ -36,4 +36,4 @@
 ![UserFlow_Diagram](https://github.com/user-attachments/assets/1396d6c3-84a5-4070-ad3e-23b11389e0d2)  
 
 ## 🤖 AI 레포지토리
-> [mealog-ai](https://github.com/LikeLion-KNU04/mealog-ai)
+[**mealog-ai**](https://github.com/LikeLion-KNU04/mealog-ai)
